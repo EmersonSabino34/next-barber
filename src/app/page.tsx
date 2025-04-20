@@ -13,7 +13,7 @@ import { Menu } from "lucide-react";
 
 export default function Home() {
   return (
-    <div className="lg:w-screen w-[350px] h-screen bg-black overflow-hidden">
+    <div className="lg:w-screen w-[100%] h-screen bg-black overflow-hidden">
       <nav className="bg-zinc-900 p-7 flex justify-between items-center">
 
       <Avatar>
