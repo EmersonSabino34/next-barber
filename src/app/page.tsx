@@ -23,7 +23,6 @@ export default function Home() {
         <h3 className="text-white text-2xl">BARBER</h3>
         </div>
       </div>
-
       <Sheet>
         <SheetTrigger><Menu className="text-white border p-1 rounded-sm" /></SheetTrigger>
         <SheetContent className="bg-zinc-900">
