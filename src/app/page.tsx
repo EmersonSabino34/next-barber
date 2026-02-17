@@ -13,6 +13,7 @@ import { Menu, Scissors } from "lucide-react";
 
 export default function Home() {
   return (
+    
     <div className="lg:w-screen w-[100%] h-screen bg-black overflow-hidden">
       <nav className="bg-zinc-900 p-4 flex justify-between items-center">
 
