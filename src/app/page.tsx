@@ -11,7 +11,6 @@ import {
 import { AvatarImage } from "@radix-ui/react-avatar";
 import { Menu, Scissors } from "lucide-react";
 
-
 export default function Home() {
   return (
     <div className="lg:w-screen w-[100%] h-screen bg-black overflow-hidden">
